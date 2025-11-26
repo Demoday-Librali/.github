@@ -4,7 +4,7 @@ Plataforma que conecta intérpretes de Libras a pessoas e instituições que pre
 
 ## 👥 Equipe Librali
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <a href="https://github.com/KetyRM">
@@ -38,9 +38,6 @@ Plataforma que conecta intérpretes de Libras a pessoas e instituições que pre
       <span>Dev FrontEnd</span>
       <br />
       <a href="https://www.linkedin.com/in/arthur-aparecido-573558314/">🔗 LinkedIn</a>
-    </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/iamCleyton">
         <img src="https://github.com/iamCleyton.png" width="100px;" alt="Alisson Sartori"/>
@@ -52,6 +49,8 @@ Plataforma que conecta intérpretes de Libras a pessoas e instituições que pre
       <br />
       <a href="https://www.linkedin.com/in/cleytondurval/">🔗 LinkedIn</a>
     </td>
+  </tr>
+  <tr  align="center">
     <td align="center">
       <a href="https://github.com/GabrielDAlm">
         <img src="https://github.com/GabrielDAlm.png" width="100px;" alt="Manoel Pires"/>
@@ -74,8 +73,6 @@ Plataforma que conecta intérpretes de Libras a pessoas e instituições que pre
       <br />
       <a href="https://www.linkedin.com/in/kevin-ferreira-security/">🔗 LinkedIn</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/May-mqy">
         <img src="https://github.com/May-mqy.png" width="100px;" alt="Ramon"/>
@@ -86,7 +83,7 @@ Plataforma que conecta intérpretes de Libras a pessoas e instituições que pre
       <span>Marketing & FullStack</span>
       <br />
       <a href="https://www.linkedin.com/in/mayaravdsilva/">🔗 LinkedIn</a>
+      <td align="center"></td>
     </td>
-    <td></td>
-    <td></td>
+
   </tr>
